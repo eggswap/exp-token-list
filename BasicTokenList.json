@@ -1,0 +1,58 @@
+{
+    "name": "Basic List",
+    "timestamp": "2020-09-17T12:00:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "expswap",
+        "default",
+        "list"
+    ],
+    "tokens": [{
+            "address": "0x331631B4bb93b9B8962faE15860BD538a389395A",
+            "chainId": 2,
+            "name": "Wrapped Expanse",
+            "symbol": "WEXP",
+            "decimals": 18
+        },
+        {
+            "address": "0x3b4cfcc4532eec161860cb6544f49947544d940d",
+            "chainId": 2,
+            "name": "Tokenlab",
+            "symbol": "LAB",
+            "decimals": 18
+        },
+        {
+            "address": "0x4f5ec5a69dbe12c48ca1edc9c52b1e8896aed932",
+            "chainId": 2,
+            "name": "EXPEX",
+            "symbol": "PEX",
+            "decimals": 18
+        },
+        {
+            "address": "0x29a828f7d34769ae5d788bbbe505fa5b2abadf06",
+            "chainId": 2,
+            "name": "GXP",
+            "symbol": "GXP",
+            "decimals": 18
+        },
+        {
+            "address": "0x9D2761A714b5b2EfA325a8a3eee21BE32AACeB4A",
+            "chainId": 2,
+            "name": "LOVE",
+            "symbol": "LVE",
+            "decimals": 18
+        },
+        {
+            "address": "0x72332c512bf2dA5A7Cd11752b380F7d8fcBba847",
+            "chainId": 2,
+            "name": "ERC644",
+            "symbol": "T64",
+            "decimals": 18
+        }
+
+    ]
+}
