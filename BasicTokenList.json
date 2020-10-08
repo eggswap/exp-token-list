@@ -32,28 +32,32 @@
             "chainId": 2,
             "name": "EXPEX",
             "symbol": "PEX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x4f5ec5a69dbe12c48ca1edc9c52b1e8896aed932.png"
         },
         {
             "address": "0x29a828f7d34769ae5d788bbbe505fa5b2abadf06",
             "chainId": 2,
             "name": "GXP",
             "symbol": "GXP",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x29a828f7d34769ae5d788bbbe505fa5b2abadf06.png"
         },
         {
             "address": "0x9D2761A714b5b2EfA325a8a3eee21BE32AACeB4A",
             "chainId": 2,
             "name": "LOVE",
             "symbol": "LVE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x9D2761A714b5b2EfA325a8a3eee21BE32AACeB4A.png"
         },
         {
             "address": "0x72332c512bf2dA5A7Cd11752b380F7d8fcBba847",
             "chainId": 2,
             "name": "ERC644",
             "symbol": "T64",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x72332c512bf2dA5A7Cd11752b380F7d8fcBba847.png"
         }
 
     ]
