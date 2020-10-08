@@ -20,15 +20,15 @@
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x331631B4bb93b9B8962faE15860BD538a389395A.png"
         },
         {
-            "address": "0x3b4cfcc4532eec161860cb6544f49947544d940d",
+            "address": "0x3B4Cfcc4532EEC161860cB6544f49947544d940d",
             "chainId": 2,
             "name": "Tokenlab",
             "symbol": "LAB",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x3b4cfcc4532eec161860cb6544f49947544d940d.png"
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x3B4Cfcc4532EEC161860cB6544f49947544d940d.png"
         },
         {
-            "address": "0x4f5ec5a69dbe12c48ca1edc9c52b1e8896aed932",
+            "address": "0x4F5ec5A69DBE12C48cA1edC9c52b1E8896Aed932",
             "chainId": 2,
             "name": "EXPEX",
             "symbol": "PEX",
