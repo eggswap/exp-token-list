@@ -36,12 +36,12 @@
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x4f5ec5a69dbe12c48ca1edc9c52b1e8896aed932.png"
         },
         {
-            "address": "0x29a828f7d34769ae5d788bbbe505fa5b2abadf06",
+            "address": "0x29a828f7D34769Ae5d788BBbe505fA5B2AbADF06",
             "chainId": 2,
             "name": "GXP",
             "symbol": "GXP",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x29a828f7d34769ae5d788bbbe505fa5b2abadf06.png"
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x29a828f7D34769Ae5d788BBbe505fA5B2AbADF06.png"
         },
         {
             "address": "0x9D2761A714b5b2EfA325a8a3eee21BE32AACeB4A",
