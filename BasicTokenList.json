@@ -63,7 +63,7 @@
             "address": "0xd1365a5Af713cde10C6ac3fB9EDBB2bBbd4B2Ba2",
             "chainId": 2,
             "name": "EGG",
-            "symbol": "T64",
+            "symbol": "EGG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0xd1365a5Af713cde10C6ac3fB9EDBB2bBbd4B2Ba2.png"
         }
