@@ -4,7 +4,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "keywords": [
         "expswap",
@@ -58,6 +58,14 @@
             "symbol": "T64",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x72332c512bf2dA5A7Cd11752b380F7d8fcBba847.png"
+        },
+               {
+            "address": "0xd1365a5Af713cde10C6ac3fB9EDBB2bBbd4B2Ba2",
+            "chainId": 2,
+            "name": "EGG",
+            "symbol": "T64",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0xd1365a5Af713cde10C6ac3fB9EDBB2bBbd4B2Ba2.png"
         }
 
     ]
