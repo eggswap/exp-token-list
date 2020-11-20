@@ -66,7 +66,16 @@
             "symbol": "EGG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0xd1365a5Af713cde10C6ac3fB9EDBB2bBbd4B2Ba2.png"
+        },
+           {
+            "address": "0x0A5B3BE530e9Ca3158b84Ab339a3403d7E44c45f",
+            "chainId": 2,
+            "name": "STEAK",
+            "symbol": "STK",
+            "decimals": 18,
+            "logoURI": "http://thegrill.app/wp-content/uploads/2020/11/steak-white-icon-512x512-1.png"
         }
+
 
     ]
 }
