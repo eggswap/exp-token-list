@@ -73,8 +73,17 @@
             "name": "STEAK",
             "symbol": "STK",
             "decimals": 18,
-            "logoURI": "http://thegrill.app/wp-content/uploads/2020/11/steak-white-icon-512x512-1.png"
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/steak-white-icon-512x512.png"
+        },
+        {
+            "address": "0x87Eb2fdF607B46F324984771FfDF2A0396139bDf",
+            "chainId": 2,
+            "name": "PROMINEROS",
+            "symbol": "PRM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/promineros-gray-icon-512x512.png"
         }
+
 
 
     ]
