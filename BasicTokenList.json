@@ -82,6 +82,14 @@
             "symbol": "PRM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/promineros-gray-icon-512x512.png"
+        },
+        {
+            "address": "0x0D14F385647E66283E8E5D9c567296751Ac7ee7D",
+            "chainId": 2,
+            "name": "WAGMI",
+            "symbol": "WAGMI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x0D14F385647E66283E8E5D9c567296751Ac7ee7D.png"
         }
 
 
