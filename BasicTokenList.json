@@ -3,7 +3,7 @@
     "timestamp": "2020-09-17T12:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "patch": 2
     },
     "keywords": [
@@ -98,6 +98,14 @@
             "symbol": "eUBIQ",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0xd13c89ad0686a974afe911ebfc11c48a72f57390.png"
+        },
+        {
+            "address": "0x097eEe28cD6Ce752e8C0Bb694cdb50669F83ab89",
+            "chainId": 2,
+            "name": "BNB",
+            "symbol": "xBNB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x097eEe28cD6Ce752e8C0Bb694cdb50669F83ab89.png"
         }
 
     ]
