@@ -90,9 +90,15 @@
             "symbol": "WAGMI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x0D14F385647E66283E8E5D9c567296751Ac7ee7D.png"
+        },
+        {
+            "address": "0xd13c89ad0686a974afe911ebfc11c48a72f57390",
+            "chainId": 2,
+            "name": "UBIQ",
+            "symbol": "eUBIQ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0xd13c89ad0686a974afe911ebfc11c48a72f57390.png"
         }
-
-
 
     ]
 }
