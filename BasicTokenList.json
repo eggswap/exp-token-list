@@ -4,7 +4,7 @@
     "version": {
         "major": 1,
         "minor": 2,
-        "patch": 4
+        "patch": 5
     },
     "keywords": [
         "expswap",
@@ -106,6 +106,30 @@
             "symbol": "eBNB",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0xc1a1c16A18928d08B46ABB61d382579246c6E9E1.png"
+        },
+        {
+            "address": "0xBd5870a474B7A9B112d34b24993b4F3aCF6Dd874",
+            "chainId": 2,
+            "name": "EVLTZ (5% slippage)",
+            "symbol": "EVLTZ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0xBd5870a474B7A9B112d34b24993b4F3aCF6Dd874.png"
+        },
+        {
+            "address": "0xE57f6bBc0fCf5b89B2d1aF54Ea4D4A1AaEa678AD",
+            "chainId": 2,
+            "name": "AutoBurn (7% slippage)",
+            "symbol": "EABN",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0xE57f6bBc0fCf5b89B2d1aF54Ea4D4A1AaEa678AD.png"
+        },
+        {
+            "address": "0x586FC83f7610c1388Ab477abA51428f9F39dfec6",
+            "chainId": 2,
+            "name": "Buy The Fucking Dip",
+            "symbol": "BTFD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x586FC83f7610c1388Ab477abA51428f9F39dfec6.png"
         }
 
     ]
