@@ -3,7 +3,7 @@
     "timestamp": "2020-09-17T12:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 4
     },
     "keywords": [
@@ -106,6 +106,14 @@
             "symbol": "eBNB",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0xc1a1c16A18928d08B46ABB61d382579246c6E9E1.png"
+        },
+        {
+            "address": "0x0Ccc576B42Da4F1e458bB88874C7E91987144a24",
+            "chainId": 2,
+            "name": "HY511",
+            "symbol": "HY511",
+            "decimals": 18,
+            "logoURI": "https://1.bp.blogspot.com/-xOEYD1yKqMo/YE_fSPm4tAI/AAAAAAAACvQ/DEk5Mo0OIOk06xf4U-r9_V6OAAtGTgpLACLcBGAsYHQ/s16000/HY511.png"
         }
 
     ]
