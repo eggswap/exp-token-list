@@ -3,7 +3,7 @@
     "timestamp": "2020-09-17T12:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 4
     },
     "keywords": [
@@ -106,6 +106,14 @@
             "symbol": "eBNB",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0xc1a1c16A18928d08B46ABB61d382579246c6E9E1.png"
+        },
+        {
+            "address": "0x7336fa672f229c7325accb5ef867b914a6062ad0",
+            "chainId": 2,
+            "name": "Alym",
+            "symbol": "ALYM",
+            "decimals": 16,
+            "logoURI": "https://alym.club/assets/images/favicon-100x100.png"
         }
 
     ]
