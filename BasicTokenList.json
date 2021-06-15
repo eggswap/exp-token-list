@@ -106,7 +106,16 @@
             "symbol": "eBNB",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0xc1a1c16A18928d08B46ABB61d382579246c6E9E1.png"
+        },
+        {
+            "address": "0x71c6a1ae78259f9e74cd4faa3f96cfd06d9e1616",
+            "chainId": 2,
+            "name": "EXPANSECASH",
+            "symbol": "EXC",
+            "decimals": 10,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/Roadmap.png"
         }
+
 
     ]
 }
