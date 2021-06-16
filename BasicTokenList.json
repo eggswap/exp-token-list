@@ -44,6 +44,14 @@
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x29a828f7D34769Ae5d788BBbe505fA5B2AbADF06.png"
         },
         {
+            "address": "0x340a5b4e42b38462e2ce090c083bf812af0ac2a7",
+            "chainId": 2,
+            "name": "RICH Token",
+            "symbol": "RICH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x340a5b4e42b38462e2ce090c083bf812af0ac2a7.png"
+        },
+        {
             "address": "0x9D2761A714b5b2EfA325a8a3eee21BE32AACeB4A",
             "chainId": 2,
             "name": "LOVE",
