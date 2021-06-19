@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 3,
-    "patch": 10
+    "patch": 12
   },
   "keywords": [
     "expswap",
@@ -130,6 +130,14 @@
       "symbol": "T502",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x9C4A1B65aBFa24f0F743FD544EB15a70A8d2e27F.png"
+    },
+    {
+      "address" : "0x71c6a1ae78259f9E74cD4FaA3F96CFD06d9E1616",
+      "chainId" : "2",
+      "name" : "EXPANSECASH",
+      "symbol" : "EXC",
+      "decimals" : 10,
+      "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x71c6a1ae78259f9E74cD4FaA3F96CFD06d9E1616.png"
     }
   ]
 }
