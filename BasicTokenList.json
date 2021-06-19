@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 3,
-    "patch": 9
+    "patch": 10
   },
   "keywords": [
     "expswap",
@@ -114,14 +114,6 @@
       "symbol": "eBNB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0xc1a1c16A18928d08B46ABB61d382579246c6E9E1.png"
-    },
-    {
-      "address": "0x71c6a1ae78259f9E74cD4FaA3F96CFD06d9E1616",
-      "chainId": 2,
-      "name": "EXPANSECASH",
-      "symbol": "EXC",
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x71c6a1ae78259f9E74cD4FaA3F96CFD06d9E1616.png"
     },
     {
       "address": "0xeCAEa0babbB715357D68337CE2e8a7A2Aa53034F",
