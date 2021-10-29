@@ -4,7 +4,7 @@
   "version": {
     "major": 2,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   },
   "keywords": [
     "expswap",
@@ -145,7 +145,7 @@
       "name": "KundaliniCoin",
       "symbol": "KLIC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x4e004A1031f79001dC21194F0EC3bF1A3a208Fb9"
+      "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x4e004A1031f79001dC21194F0EC3bF1A3a208Fb9.png"
     }
   ]
 }
