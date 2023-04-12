@@ -147,5 +147,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x4e004A1031f79001dC21194F0EC3bF1A3a208Fb9"
     }
+    {
+      "address": "0x54451dBE4B925aa5E312E232c6Cba2EAA0d98169",
+      "chainId": 2,
+      "name": "Saving",
+      "symbol": "SVIT",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmaqESH5kqZSb7YvydjcaAKp6SvyGyhmLpMd4xxVCJe1Zo?_gl=1*534p9x*rs_ga*NzgyMTM0MTQtOGZmZC00YzQ2LWJiYmItMWQ1M2RhMTUyOWVi*rs_ga_5RMPXG14TE*MTY4MTMwMTE0MS4yLjEuMTY4MTMwMTE1MS41MC4wLjA."
+    }        
   ]
 }
