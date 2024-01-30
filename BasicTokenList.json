@@ -162,6 +162,15 @@
       "symbol": "PUNK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x5Ba8E507Be156cBbA52531a2C38296De5b385EfB.png"
-    }
+    },
+    {
+      "address": "0x45370a6CAa6472Dc030014680bdfa27ed224BEfc",
+      "chainId": 2,
+      "name": "ExpanseDoge",
+      "symbol": "EDOGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/0xliquidated/exp-token-list/main/icon/0x45370a6CAa6472Dc030014680bdfa27ed224BEfc.png"
+    }    
+    
   ]
 }
