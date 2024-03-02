@@ -156,6 +156,14 @@
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x54451dBE4B925aa5E312E232c6Cba2EAA0d98169.png"
     },
     {
+      "address": "0xc451C62eF7392068053D80c7a66883358a547E25",
+      "chainId": 2,
+      "name": "Saving",
+      "symbol": "SVIT2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x54451dBE4B925aa5E312E232c6Cba2EAA0d98169.png"
+    },
+    {
       "address": "0x5Ba8E507Be156cBbA52531a2C38296De5b385EfB",
       "chainId": 2,
       "name": "PunkCoin",
