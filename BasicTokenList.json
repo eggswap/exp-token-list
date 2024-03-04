@@ -150,8 +150,8 @@
     {
       "address": "0x54451dBE4B925aa5E312E232c6Cba2EAA0d98169",
       "chainId": 2,
-      "name": "Saving Depercated",
-      "symbol": "SVIT Depercated",
+      "name": "SavingDepercated",
+      "symbol": "SVITDepercated",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x54451dBE4B925aa5E312E232c6Cba2EAA0d98169.png"
     },
