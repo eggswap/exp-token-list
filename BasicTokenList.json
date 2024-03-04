@@ -1,9 +1,9 @@
 {
   "name": "Basic List",
-  "timestamp": "2021-06-20T00:00:00+00:00",
+  "timestamp": "2024-01-10T00:00:00+00:00",
   "version": {
     "major": 2,
-    "minor": 6,
+    "minor": 7,
     "patch": 1
   },
   "keywords": [
@@ -150,8 +150,8 @@
     {
       "address": "0x54451dBE4B925aa5E312E232c6Cba2EAA0d98169",
       "chainId": 2,
-      "name": "Saving",
-      "symbol": "SVIT",
+      "name": "Saving (Depercated)",
+      "symbol": "SVIT (Depercated)",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x54451dBE4B925aa5E312E232c6Cba2EAA0d98169.png"
     },
